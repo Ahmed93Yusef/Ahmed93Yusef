@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Yusef
-- 👀 I’m interested in mobile application devlopment
+- 👀 I’m interested in mobile application development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on mobile application
 - 📫 How to reach me ahmed.yusef.1993@gmail.com
